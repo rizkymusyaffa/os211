@@ -2,3 +2,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 80 L02 ZOOM related
+ZCZC W00 15 L03 Github create
+ZCZC W00 10 L23 checking OS discord
