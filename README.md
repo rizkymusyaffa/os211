@@ -4,6 +4,7 @@
 
 * [KEY](https://rizkymusyaffa.github.io/os211/TXT/mypubkey.txt)
 * [MY RANK](https://rizkymusyaffa.github.io/os211/TXT/myrank.txt)
+* [MY LOG](https://rizkymusyaffa.github.io/os211/TXT/mylog.txt)
 
 ## Weekly
 1. [W01](W01/)
