@@ -27,3 +27,7 @@ ZCZC W03 40 SCELE related
 ZCZC W03 210 L10 Assignment (General)
 ZCZC W03 50 L05 GSGS related
 ZCZC W03 30 L23 Discord: pop quiz
+ZCZC W04 80 L02 ZOOM related
+ZCZC W04 50 L01 SCELE related
+ZCZC W04 50 GSGS related
+ZCZC W04 240 L10 Assignment (General)
