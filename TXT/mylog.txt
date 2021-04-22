@@ -36,3 +36,6 @@ ZCZC W05 40 L01 SCELE related
 ZCZC W05 100 GSGS related
 ZCZC W05 200 L10 Assignment(General)
 ZCZC W05 60 L23 Discord Mini Quiz
+ZCZC W06 100 L02 ZOOM related
+ZCZC W06 200 GSGS related
+ZCZC W06 200 L10 Assignment(General)
